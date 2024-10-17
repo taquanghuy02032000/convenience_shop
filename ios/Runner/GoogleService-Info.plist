@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>327425842148-bpi7dn5qrfub12noehinfrfao8ec1c0h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.327425842148-bpi7dn5qrfub12noehinfrfao8ec1c0h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>327425842148-gtqle4mmh16lp817l9435jsd4drf2lbo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDo78VkvEYFxMBVgMBRtBGPQ0c1SDZvBzw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>327425842148</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.huytq.convinientshop.convinientShop</string>
+	<key>PROJECT_ID</key>
+	<string>convenience-app-e7e12</string>
+	<key>STORAGE_BUCKET</key>
+	<string>convenience-app-e7e12.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:327425842148:ios:a468a639e74e4453bf45f1</string>
+</dict>
+</plist>

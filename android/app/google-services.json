@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327425842148",
+    "project_id": "convenience-app-e7e12",
+    "storage_bucket": "convenience-app-e7e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327425842148:android:9897835c859281a5bf45f1",
+        "android_client_info": {
+          "package_name": "com.huytq.convinientshop.convinient_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhiIw9HHkhwO8dU81S-Bt2uVyNpPLHiTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
